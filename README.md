@@ -9,4 +9,6 @@ A repo to organize information and thoughts on AI
 ## I am getting sleepy
   * Modified this on github webpage, by clicking pencil
   * Add text
-  * Click green button <commit changes.
+  * Click green button <commit changes>
+
+## Back on Atlas can change again
